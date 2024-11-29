@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Mari Muthu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            color: #0056b3;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #0056b3;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mari Muthu</h1>
+        <h3>Senior Network Engineer</h3>
+        <p><strong>Contact:</strong> (+91) 8939274918</p>
+
+        <div class="section">
+            <h2 class="section-title">Professional Summary</h2>
+            <p>Network Engineer with 3+ years of experience in configuring and troubleshooting network devices, routing protocols, and security measures. Experienced in IIOT implementation, failover restructuring, IP segmentation, and Uniflow configuration across 1000+ customer branches.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Skills</h2>
+            <ul>
+                <li>Network Engineering</li>
+                <li>Switches</li>
+                <li>Fortinet</li>
+                <li>Network Performance</li>
+                <li>SolarWinds (Software)</li>
+                <li>Network Security</li>
+                <li>Problem Solving</li>
+                <li>Cisco</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Work Experience</h2>
+            <h3>Senior Network Engineer at Cognizant (January 2024 – Present)</h3>
+            <ul>
+                <li>Demonstrated proficiency in routing and switching while monitoring network performance.</li>
+                <li>Configured and managed network devices including routers, switches, and firewalls.</li>
+            </ul>
+            <h3>Network Engineer at Net Access India (December 2021 – December 2023)</h3>
+            <ul>
+                <li>Managed network devices and provided Level 1 & 2 support.</li>
+                <li>Configured EIGRP and OSPF for load balancing.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Projects</h2>
+            <ul>
+                <li><strong>IIOT PROJECT:</strong> Implementation of IIOT Switches for all over India.</li>
+                <li><strong>Fail-over Restructuring:</strong> Strengthened customer trust by resolving failover issues.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Education</h2>
+            <p><strong>BE, Anna University, Chennai</strong> (2017 – 2021)</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Certifications</h2>
+            <ul>
+                <li>CCNA - Course completed (2022)</li>
+                <li>NSE 3 (2023)</li>
+                <li>AWS SAA-C03 exams - On Going (December 2024)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
